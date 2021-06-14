@@ -1,0 +1,17 @@
+#Describe what is the primary problem you are trying to solve. (P1)
+
+To read from the file the Credit card details- credit card number, expiry date,credit card holder name, 
+
+#Describe what are the secondary problems you try to solve (if there are any). (P2/P3)
+
+To apply the algorithm to identify between the various types of cards
+
+#Describe what design pattern(s) you use how (use plain text and/or diagrams). 
+
+Factory Method design pattern is used to create instances based on the algo
+
+#Describe the consequences of using this/these pattern(s).
+
+One disadvantage of the Factory Method pattern is that it can expand the total number of classes in a system.
+
+If in future, the added class does not include in a parent-child class hierarchy or don’t implement the interface, it cannot be used within.
